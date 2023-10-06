@@ -1,5 +1,5 @@
-const swaggerUi= require('swagger-ui-express');
-const swaggerDoc= require('../swagger.json')
+const swaggerUi = require('swagger-ui-express');
+const swaggerDoc = require('../swagger.json')
 const userRoutes = require('../modules/user/user.routes');
 const conversationRoutes = require('../modules/conversations/conversation.routes');
 const messageRoutes= require('../modules/messages/message.routes')

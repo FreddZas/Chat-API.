@@ -22,8 +22,5 @@ router.route('/login')
 
 router.post('/validate', validateEmailUser)
 
-/*router.route('/reverify-email')
-.post(reverifyEmail)*/
-
 
 module.exports = router

@@ -28,7 +28,7 @@ module.exports = {
       avatar: {
         type: Sequelize.STRING,
         defaultValue: 
-        'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png'
+        'https://play-lh.googleusercontent.com/idM5umbTu3IcHdmI5SKj7G69_eOEqce7envIjzGUfdYhwwIAcvn76o6Q-m4rZh0yS97V=w240-h480-rw'
       },
       password: {
         type: Sequelize.STRING,
