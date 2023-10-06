@@ -42,3 +42,5 @@ errorRoutes(app)
 app.listen(PORT, () => {
     console.log(`Servidor escuchando en el puerto ${PORT}`)
 })
+
+// revisa mi cosigo y dime por que no puedo verificar el correo del ususario creado?
